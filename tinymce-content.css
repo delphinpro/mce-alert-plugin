@@ -1,0 +1,21 @@
+.alert {
+    padding: 0 1rem;
+    border: 2px solid #ccc;
+    border-left-width: 1rem;
+}
+
+.alert-info {
+    border-color: dodgerblue;
+}
+
+.alert-success {
+    border-color: lawngreen;
+}
+
+.alert-warning {
+    border-color: chocolate
+}
+
+.alert-danger {
+    border-color: crimson
+}
